@@ -1,0 +1,14 @@
+install/import pygame # pip3 install pygame
+# Pygame is a set of Python modules designed for writing video games.
+    # includes computer graphics and sound libraries designed to be used
+    # with the Python programming language
+
+import os #already installed/part of python stadard libraries
+# The OS module in python provides functions for interacting with the operating system.
+
+import random # #already installed/part of python stadard libraries
+# The random() provides access to functions that support these types of operations. 
+
+import time # #already installed/part of python stadard libraries
+# The time() function returns the number of seconds passed 
+Footer
